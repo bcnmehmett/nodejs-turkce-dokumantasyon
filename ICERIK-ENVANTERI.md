@@ -15,9 +15,9 @@
 - ✅ 05. An introduction to the npm package manager — [Türkçe dosya](docs/01-baslangic/05-npm-paket-yoneticisi.md)
 - ✅ 06. Node version managers — [Türkçe dosya](docs/01-baslangic/06-node-surum-yoneticileri.md)
 - ✅ 07. ECMAScript 2015 (ES6) and beyond — [Türkçe dosya](docs/01-baslangic/07-ecmascript-2015-ve-sonrasi.md)
-- ⬜ 08. Debugging Node.js
-- ⬜ 09. Fetching data with Node.js
-- ⬜ 10. WebSocket client with Node.js
+- ✅ 08. Debugging Node.js — [Türkçe dosya](docs/01-baslangic/08-nodejs-hata-ayiklama.md)
+- ✅ 09. Fetching data with Node.js — [Türkçe dosya](docs/01-baslangic/09-fetch-ile-veri-cekme.md)
+- ✅ 10. WebSocket client with Node.js — [Türkçe dosya](docs/01-baslangic/10-websocket-istemcisi.md)
 - ⬜ 11. Node.js, the difference between development and production
 - ⬜ 12. Profiling Node.js Applications
 - ⬜ 13. Node.js with WebAssembly
@@ -132,7 +132,7 @@
 
 ---
 
-**Toplam: 88 makale, 12 ana kategori. Tamamlanan: 7; bekleyen: 81.**
+**Toplam: 88 makale, 12 ana kategori. Tamamlanan: 10; bekleyen: 78.**
 
 ### Kalite kontrol protokolü
 
