@@ -11,7 +11,7 @@
 - ✅ 01. Introduction to Node.js — [Türkçe dosya](docs/01-baslangic/01-nodejs-giris.md)
 - ✅ 02. How much JavaScript do you need to know to use Node.js? — [Türkçe dosya](docs/01-baslangic/02-javascript-on-bilgisi.md)
 - ✅ 03. Differences between Node.js and the Browser — [Türkçe dosya](docs/01-baslangic/03-nodejs-tarayici-farklari.md)
-- ⬜ 04. The V8 JavaScript Engine
+- ✅ 04. The V8 JavaScript Engine — [Türkçe dosya](docs/01-baslangic/04-v8-javascript-motoru.md)
 - ⬜ 05. An introduction to the npm package manager
 - ⬜ 06. Node version managers
 - ⬜ 07. ECMAScript 2015 (ES6) and beyond
@@ -132,7 +132,7 @@
 
 ---
 
-**Toplam: 88 makale, 12 ana kategori. Tamamlanan: 3; bekleyen: 85.**
+**Toplam: 88 makale, 12 ana kategori. Tamamlanan: 4; bekleyen: 84.**
 
 ### Kalite kontrol protokolü
 
